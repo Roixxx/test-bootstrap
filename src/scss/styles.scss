@@ -17,3 +17,11 @@
 // components
 @import '@/components/header/header';
 @import '@/components/footer/footer';
+
+
+@import "bootstrap/scss/bootstrap-grid";
+
+.col {
+	background-color: #eee;
+	border: solid 1px #aaa;
+}
